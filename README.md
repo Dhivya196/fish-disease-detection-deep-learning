@@ -34,5 +34,3 @@ The project was not fully developed by me; I contributed to the machine learning
 ## Author
 
 Dhivya S K  
-B.Tech CSE (AI & Robotics)  
-VIT Chennai
