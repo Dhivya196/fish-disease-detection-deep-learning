@@ -1,4 +1,4 @@
-# fish-disease-detection-deep-learning# Fish Disease Detection using Deep Learning
+# Fish Disease Detection using Deep Learning
 
 This project explores the use of deep learning models to detect fish diseases from images.
 
